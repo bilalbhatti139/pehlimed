@@ -18584,3 +18584,7 @@ ul.category-list {
     .p-100{
       padding-left: 100px !important;
     }
+
+    .img-fluid.my-img{
+      max-width: 70% !important;
+    }
