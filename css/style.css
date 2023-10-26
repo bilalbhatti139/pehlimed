@@ -18588,3 +18588,13 @@ ul.category-list {
     .img-fluid.my-img{
       max-width: 70% !important;
     }
+
+    .white{
+      color: #fff !important;
+    }
+
+   .my-tag a:hover{
+  
+    text-decoration: none !important;
+
+   }
