@@ -24672,3 +24672,7 @@ body:not(.touch) .prd-tabs-wrap .btn:focus {
 .my-tag a:hover {
   text-decoration: none !important;
 }
+
+.img-mb-50 {
+  width: 50px !important;
+}
