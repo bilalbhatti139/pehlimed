@@ -416,7 +416,7 @@ $(function () {
 
   if (blocks.specialistCarousel.length) {
     blocks.specialistCarousel.slick({
-      slidesToShow: 3,
+      slidesToShow: 2,
       slidesToScroll: 1,
       infinite: true,
       autoplay: true,
