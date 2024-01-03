@@ -22988,9 +22988,9 @@ body:not(.touch) .quickLinks.closed .quickLinks-open:hover span {
   padding: 0 15px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
-@media (min-width: 1023)
+@media (min-height: 1023)
 {
-  
+  {
   .doctor-box {
     max-width: 500px !important;
     margin-left: auto;
@@ -23001,7 +23001,7 @@ body:not(.touch) .quickLinks.closed .quickLinks-open:hover span {
   }
 };
   
-
+}
 @media (max-width: 1023px) {
   .doctor-box {
     padding: 0 10px;

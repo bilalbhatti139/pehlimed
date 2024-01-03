@@ -22981,27 +22981,13 @@ body:not(.touch) .quickLinks.closed .quickLinks-open:hover span {
 }
 
 .doctor-box {
-  max-width: 500px !important;
+  max-width: 370px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
   padding: 0 15px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
-@media (min-width: 1023)
-{
-  
-  .doctor-box {
-    max-width: 500px !important;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    padding: 0 15px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-  }
-};
-  
-
 @media (max-width: 1023px) {
   .doctor-box {
     padding: 0 10px;
@@ -24689,4 +24675,8 @@ body:not(.touch) .prd-tabs-wrap .btn:focus {
 
 .img-mb-50 {
   width: 50px !important;
+}
+.custom-height{
+  height: 500px;
+  widt
 }
