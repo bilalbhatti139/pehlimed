@@ -22982,7 +22982,6 @@ body:not(.touch) .quickLinks.closed .quickLinks-open:hover span {
 
 .doctor-box {
   max-width: 500px !important;
-  height: 715px !important;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
@@ -22994,6 +22993,7 @@ body:not(.touch) .quickLinks.closed .quickLinks-open:hover span {
   
   .doctor-box {
     max-width: 500px !important;
+    height
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
